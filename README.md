@@ -3,3 +3,4 @@ Here are a few notebooks that do preliminary data analysis on public datasets fr
 
 Links to Kaggle notebooks:
 1. [A Simple Analysis of IIT-NIT Cut-offs Data](https://www.kaggle.com/code/dhanashreenp/a-simple-analysis-of-iit-nit-cut-offs-data)
+2. [EDA : Top-Rated TMDB Movies](https://www.kaggle.com/code/dhanashreenp/eda-top-rated-tmdb-movies)
